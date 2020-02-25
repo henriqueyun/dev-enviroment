@@ -34,3 +34,6 @@ sudo snap install intellij-idea-community --classic
 
 echo "</> Tweaks"
 sudo apt install gnome-tweaks
+
+echo "</> Spotify"
+sudo snap install spotify
